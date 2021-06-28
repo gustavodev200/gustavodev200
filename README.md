@@ -8,3 +8,10 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gustavo%20Lage-0083ff?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-lage-francelino-976b6220b)](https://www.linkedin.com/in/gustavo-lage-francelino-976b6220b)
 
+💻  Tecnologias que estudo: 🚀
+
+🟧 HTML5 / 🟦 CSS3/  🟨JAVASCRIPT
+
+🚀 Tecnologias que utilizo:
+
+🔵 VsCode / 🟠 Git/ ⚫ GitHub
