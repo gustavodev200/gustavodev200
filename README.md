@@ -6,7 +6,7 @@
 
 📫 Reach me out 👇
 
-[![Linkedin Badge](https://img.shields.io/badge/-Gustavo%20Lage-0083ff?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-lage-976b6220b/)](https://www.linkedin.com/in/gustavo-lage-francelino-976b6220b)
+[![Linkedin Badge](https://img.shields.io/badge/-Gustavo%20Lage-0083ff?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-lage-976b6220b/)](https://www.linkedin.com/in/gustavo-lage)
 
 💻  Tecnologias que estudo: 🚀
 
