@@ -20,15 +20,17 @@ Tenho conhecimeno básico em React Js e Styled-componets, consigo me desenrolar 
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <code><img alt="NodeJS" title="NodeJS" height="48"
 </div>
 
 ##
 
 🚀 Tecnologias que utilizo:
 
-🔵 VsCode / 🟠 Git/ ⚫ GitHub
-
-
+<code><img alt="VSCode" title="VSCode" height="48" src="https://user-images.githubusercontent.com/57419630/122802342-a2eae900-d29b-11eb-9f8a-d492a84716c8.png">
+<code><img alt="Github" title="Github" height="48" src="https://user-images.githubusercontent.com/57419630/122800074-e2640600-d298-11eb-975a-5cbe097786c4.png">
+<code><img alt="npm" height="44" src="https://user-images.githubusercontent.com/57419630/124049280-7eef7c00-d9ee-11eb-822f-1b7ac86f5271.png"></code>
+  
 <div>
   <a href="https://github.com/gustavodev200">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavodev200&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
