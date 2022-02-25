@@ -32,7 +32,7 @@ Tenho conhecimeno básico em React Js e Styled-componets, consigo me desenrolar 
 <img alt="Github" title="Github" height="48" src="https://user-images.githubusercontent.com/57419630/122800074-e2640600-d298-11eb-975a-5cbe097786c4.png">
 <img alt="npm" height="44" src="https://user-images.githubusercontent.com/57419630/124049280-7eef7c00-d9ee-11eb-822f-1b7ac86f5271.png">
 </div>
-  
+<br> 
 <div>
   <a href="https://github.com/gustavodev200">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavodev200&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
