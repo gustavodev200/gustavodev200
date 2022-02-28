@@ -11,7 +11,7 @@ Tenho conhecimeno básico em React Js e Styled-componets, consigo me desenrolar 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gustavo%20Lage-0083ff?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-lage-976b6220b/)](https://www.linkedin.com/in/gustavo-lage)
 
-💻  Tecnologias que estudo: 🚀
+💻  Tecnologias que estudo 🚀
 
 <div style="display: inline_block"><br>
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
