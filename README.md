@@ -2,7 +2,7 @@
 
 💻 Meu nome é Gustavo Lage tenho 20 anos,  e estudo as linguagens básicas para o Front-end que é HTML5 / CSS3 e JAVASCRIPT. 
 Tenho conhecimeno básico em React Js e Styled-componets, consigo me desenrolar no frontend.
-🇧🇷 Mais à frente pretendo aprender React Native, 🚀🚀🚀🚀 mais um passo de cada vez...
+🇧🇷 Mais à frente pretendo aprender Node Js e React Native, 🚀🚀🚀🚀 mais um passo de cada vez...
 
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
