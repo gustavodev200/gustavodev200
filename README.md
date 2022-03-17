@@ -25,7 +25,7 @@ Tenho conhecimeno básico em React Js e Styled-componets, consigo me desenrolar 
 
 ##
 
-🚀 Tecnologias que utilizo:
+🚀 Tecnologias que utilizo
 
 <div style="display: inline_block"><br>
  <img alt="VSCode" title="VSCode" height="48" src="https://user-images.githubusercontent.com/57419630/122802342-a2eae900-d29b-11eb-9f8a-d492a84716c8.png">
