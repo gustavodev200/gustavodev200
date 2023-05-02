@@ -4,6 +4,10 @@
 Tenho conhecimeno básico em React Js e Styled-componets, consigo me desenrolar no frontend.
 🇧🇷 Mais à frente pretendo aprender Node Js e React Native, 🚀🚀🚀🚀 mais um passo de cada vez...
 
+<a href="https://gifer.com/en/Dtf">
+  <img align="right" src="https://media0.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width=10% height=5% />
+</a>
+
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
 
