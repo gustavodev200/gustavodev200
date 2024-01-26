@@ -1,10 +1,11 @@
 # Hi there 👋, I'm Gustavo Lage
 
-💻 Com menos de um ano dedicado aos estudos de Desenvolvimento Frontend, estou em constante busca por adaptação e desafios para aprimorar minhas habilidades. Embora não possua experiência prévia como desenvolvedor, trago uma trajetória sólida em Suporte de TI, progredindo do nível Júnior para Pleno. Essa transição demonstra minha capacidade de agregar valor onde estou e reflete meu compromisso em entregar o melhor, seja em que área ou desafio for.
-
-Meu objetivo é ingressar no mercado como desenvolvedor frontend, e meu repertório inclui proficiência em: HTML, CSS, SASS, Styled Components, React JS, Javascript, Typescript e API REST.
-
-Identifico-me particularmente com os princípios do design responsivo. Assim como as interfaces web se adaptam de maneira fluida a diferentes dispositivos, mantenho essa mesma maleabilidade e adaptabilidade em minha abordagem, mantendo minha eficácia intacta em diversas situações.
+- 🔭 Atualmente estou trabalhando como Técnico de Suporte de TI.
+- 🌱 Atualmente estou aprendendo Next JS, Tailwind CSS e React Query
+- 🤔 Estou procurando ajuda para encontrar a primeira oportunidade como Dev Frontend Jr.
+- 💬 Pergunte-me sobre o mundo Frontend.
+- 📫 Como entrar em contato comigo: gustavolage200@gmail.com
+- ⚡ Curiosidade: Fã do Futebol
 
 <a href="https://gifer.com/en/Dtf">
   <img align="right" src="https://media0.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width=10% height=5% />
