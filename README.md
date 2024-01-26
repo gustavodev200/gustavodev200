@@ -5,7 +5,7 @@
 - 🤔 Estou procurando ajuda para encontrar a primeira oportunidade como Dev Frontend Jr.
 - 💬 Pergunte-me sobre o mundo Frontend.
 - 📫 Como entrar em contato comigo: gustavolage200@gmail.com
-- ⚡ Curiosidade: Fã do Futebol
+- ⚡ Curiosidade: Football Fan
 
 <a href="https://gifer.com/en/Dtf">
   <img align="right" src="https://media0.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width=10% height=5% />
